@@ -1,1 +1,0 @@
-[{"id":2,"username":"new","password":"user","title":"DSA","description":"Learn DSA","price":"4000","imagelink":"DSA","published":"True"},{"id":3,"username":"new","password":"user","title":"MERN","description":"Learn MERN","price":"6000","imagelink":"MERN","published":"True"}]
